@@ -7,3 +7,5 @@ I use Backspace in Normal mode to go back a pane, and Tab to go forward.
 `nnoremap <Tab> <c-w>w`
 
 `nnoremap <bs> <c-w>W`
+
+control L to go to the left tab and control H to go to the right one
