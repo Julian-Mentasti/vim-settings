@@ -8,4 +8,8 @@ I use Backspace in Normal mode to go back a pane, and Tab to go forward.
 
 `nnoremap <bs> <c-w>W`
 
-control L to go to the left tab and control H to go to the right one
+shift l to go to the left tab and shift H to go to the right one
+
+`:vsplit [filename]` open a file in new vertical pane
+
+`:tabnew [filename]` open a file in a new tab
